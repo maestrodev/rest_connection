@@ -1,7 +1,7 @@
 require File.expand_path('../lib/rest_connection/version', __FILE__)
 
 Gem::Specification.new do |s|
-  s.name         = 'rest_connection'
+  s.name         = 'rest_connection-maestrodev'
   s.version      = RestConnection::VERSION
   s.platform     = Gem::Platform::RUBY
   s.date         = Time.now.utc.strftime("%Y-%m-%d")
